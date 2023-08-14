@@ -13,26 +13,26 @@ Solution file: [Probability_Practice.ipynb](/Probability_Practice.ipynb)
 
 Solution file: [Wrangling_the_Billboard_Top100.ipynb](/Probability_Practice.ipynb)
 
-## Exercise 1:  Visual story telling
+## Exercise 3:  Visual story telling
 
 Solution file: [Visual_Story_Telling.ipynb](/Probability_Practice.ipynb)
 
-## Exercise 1:  Clustering and dimensionality reduction
+## Exercise 4:  Clustering and dimensionality reduction
 
 Solution file: [Clustering_Dimensionality_Reduction.ipynb](/Clustering.ipynb)
 
-## Exercise 1:  Market segmentation
+## Exercise 5:  Market segmentation
 
 Solution file: [Market_Segmentation.ipynb](/Market_Segmentation.ipynb)
 
-## Exercise 1:  The Reuters corpus 
+## Exercise 6:  The Reuters corpus 
 
 Solution file: [The_Reuters_Corpus.ipynb](/Probability_Practice.ipynb)
 
-## Exercise 1:  Association rule mining
+## Exercise 7:  Association rule mining
 
 Solution file: [Association_Rule_Mining.ipynb](/Groceries/groceries.R)
 
-## Exercise 1:  Image classification with neural networks 
+## Exercise 8:  Image classification with neural networks 
 
 Solution file: [Satellite_Image_Classification_CNN.ipynb](/Satellite_Image_Classification.ipynb)
