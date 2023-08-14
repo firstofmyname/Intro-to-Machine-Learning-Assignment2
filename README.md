@@ -7,7 +7,7 @@ Below are the group members:
 - Gaytri Riya Vasal
 ## Exercise 1:  Probability practice
 
-Solution file: [Probability_Practive.ipynb](/Probability_Practice.ipynb)
+Solution file: [Probability_Practice.ipynb](/Probability_Practice.ipynb)
 
 ## Exercise 2:  Wrangling the Billboard Top 100
 
@@ -35,4 +35,4 @@ Solution file: [Association_Rule_Mining.ipynb](/Groceries/groceries.R)
 
 ## Exercise 1:  Image classification with neural networks 
 
-Solution file: [Satellite_Image_Classification_CNN.ipynb](/Satellite_Image_Classificationipynb)
+Solution file: [Satellite_Image_Classification_CNN.ipynb](/Satellite_Image_Classification.ipynb)
